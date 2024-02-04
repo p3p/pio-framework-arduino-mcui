@@ -1,0 +1,13 @@
+{
+  "name": "framework-arduino-mcui",
+  "version": "0.0.1",
+  "description": "Arduino Wiring-based Framework for the some LPC MCU series",
+  "keywords": [
+    "arduino",
+    "LPC4078"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/p3p/pio-framework-arduino-mcui"
+  }
+}
